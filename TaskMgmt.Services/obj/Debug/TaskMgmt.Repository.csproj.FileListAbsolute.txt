@@ -1,0 +1,13 @@
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\TaskMgmt.Services.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\TaskMgmt.Services.pdb
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\obj\Debug\TaskMgmt.Repository.csprojResolveAssemblyReference.cache
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\obj\Debug\TaskMgmt.Services.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\obj\Debug\TaskMgmt.Services.pdb
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\EntityFramework.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\TaskMgmt.Data.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\TaskMgmt.Domain.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\TaskMgmt.Data.pdb
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\TaskMgmt.Domain.pdb
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\EntityFramework.xml
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Services\bin\Debug\EntityFramework.SqlServer.xml

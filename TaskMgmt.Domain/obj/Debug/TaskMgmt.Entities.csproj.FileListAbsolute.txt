@@ -1,0 +1,4 @@
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Domain\bin\Debug\TaskMgmt.Domain.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Domain\bin\Debug\TaskMgmt.Domain.pdb
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Domain\obj\Debug\TaskMgmt.Domain.dll
+E:\Ankush\Coding\TaskMgmtAPISolution\TaskMgmt.Domain\obj\Debug\TaskMgmt.Domain.pdb
